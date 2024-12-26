@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\jh\\unreal_241226\\hellounral\\intermediate\\build\\win64\\unrealeditor\\inc\\hellounral\\uht\\mygameinstance.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\jh\\unreal_241226\\hellounral\\intermediate\\build\\win64\\hellounraleditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\jh\\unreal_241226\\hellounral\\intermediate\\build\\win64\\unrealeditor\\development\\hellounral\\definitions.hellounral.h",
+            "d:\\jh\\unreal_241226\\hellounral\\source\\hellounral\\mygameinstance.h",
+            "d:\\jh\\unreal_241226\\hellounral\\intermediate\\build\\win64\\unrealeditor\\inc\\hellounral\\uht\\mygameinstance.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

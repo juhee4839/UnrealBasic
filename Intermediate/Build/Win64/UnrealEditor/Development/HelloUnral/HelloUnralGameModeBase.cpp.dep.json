@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\jh\\unreal_241226\\hellounral\\source\\hellounral\\hellounralgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\jh\\unreal_241226\\hellounral\\intermediate\\build\\win64\\hellounraleditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\jh\\unreal_241226\\hellounral\\intermediate\\build\\win64\\unrealeditor\\development\\hellounral\\definitions.hellounral.h",
+            "d:\\jh\\unreal_241226\\hellounral\\source\\hellounral\\hellounralgamemodebase.h",
+            "d:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\jh\\unreal_241226\\hellounral\\intermediate\\build\\win64\\unrealeditor\\inc\\hellounral\\uht\\hellounralgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
