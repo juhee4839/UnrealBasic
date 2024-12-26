@@ -1,0 +1,19 @@
+# Unreal Engine 기본 무시 파일
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# 개발 환경 파일
+*.user
+*.userprefs
+*.suo
+*.VC.db
+*.VC.opendb
+
+# 빌드 파일 및 임시 파일
+*.exe
+*.dll
+*.pdb
+*.log
+*.tmp

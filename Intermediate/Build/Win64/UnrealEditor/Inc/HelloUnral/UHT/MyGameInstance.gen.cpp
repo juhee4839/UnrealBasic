@@ -74,15 +74,15 @@ void EmptyLinkFunctionForGeneratedCodeMyGameInstance() {}
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(UMyGameInstance);
 	UMyGameInstance::~UMyGameInstance() {}
-	struct Z_CompiledInDeferFile_FID_JH_unreal_241226_HelloUnral_Source_HelloUnral_MyGameInstance_h_Statics
+	struct Z_CompiledInDeferFile_FID_JH_UnrealPortfolio_UnrealBasic_Source_HelloUnral_MyGameInstance_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_JH_unreal_241226_HelloUnral_Source_HelloUnral_MyGameInstance_h_Statics::ClassInfo[] = {
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_JH_UnrealPortfolio_UnrealBasic_Source_HelloUnral_MyGameInstance_h_Statics::ClassInfo[] = {
 		{ Z_Construct_UClass_UMyGameInstance, UMyGameInstance::StaticClass, TEXT("UMyGameInstance"), &Z_Registration_Info_UClass_UMyGameInstance, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UMyGameInstance), 4092302255U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_JH_unreal_241226_HelloUnral_Source_HelloUnral_MyGameInstance_h_2665543016(TEXT("/Script/HelloUnral"),
-		Z_CompiledInDeferFile_FID_JH_unreal_241226_HelloUnral_Source_HelloUnral_MyGameInstance_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_JH_unreal_241226_HelloUnral_Source_HelloUnral_MyGameInstance_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_JH_UnrealPortfolio_UnrealBasic_Source_HelloUnral_MyGameInstance_h_2665543016(TEXT("/Script/HelloUnral"),
+		Z_CompiledInDeferFile_FID_JH_UnrealPortfolio_UnrealBasic_Source_HelloUnral_MyGameInstance_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_JH_UnrealPortfolio_UnrealBasic_Source_HelloUnral_MyGameInstance_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

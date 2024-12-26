@@ -58,7 +58,7 @@
 #define UE_IS_ENGINE_MODULE 0
 #define UE_DISABLE_INLINE_GEN_CPP 0
 #define UE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_1 0
-#define UE_PROJECT_NAME HelloUnral
+#define UE_PROJECT_NAME UnrealBasic
 #define UE_TARGET_NAME HelloUnralEditor
 #define UE_MODULE_NAME "HelloUnral"
 #define UE_PLUGIN_NAME ""

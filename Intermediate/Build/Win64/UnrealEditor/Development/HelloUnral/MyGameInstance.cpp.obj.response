@@ -1,4 +1,4 @@
-D:\JH\unreal_241226\HelloUnral\Source\HelloUnral\MyGameInstance.cpp
+D:\JH\UnrealPortfolio\UnrealBasic\Source\HelloUnral\MyGameInstance.cpp
 /I .
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT
 /I Runtime
@@ -269,8 +269,8 @@ D:\JH\unreal_241226\HelloUnral\Source\HelloUnral\MyGameInstance.cpp
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
-/I D:\JH\unreal_241226\HelloUnral\Intermediate\Build\Win64\UnrealEditor\Inc\HelloUnral\UHT
-/I D:\JH\unreal_241226\HelloUnral\Source
+/I D:\JH\UnrealPortfolio\UnrealBasic\Intermediate\Build\Win64\UnrealEditor\Inc\HelloUnral\UHT
+/I D:\JH\UnrealPortfolio\UnrealBasic\Source
 /external:W0
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64
@@ -280,12 +280,9 @@ D:\JH\unreal_241226\HelloUnral\Source\HelloUnral\MyGameInstance.cpp
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"D:\JH\unreal_241226\HelloUnral\Intermediate\Build\Win64\HelloUnralEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"D:\JH\unreal_241226\HelloUnral\Intermediate\Build\Win64\UnrealEditor\Development\HelloUnral\Definitions.HelloUnral.h"
-/Yu"D:\JH\unreal_241226\HelloUnral\Intermediate\Build\Win64\HelloUnralEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\JH\unreal_241226\HelloUnral\Intermediate\Build\Win64\HelloUnralEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"D:\JH\unreal_241226\HelloUnral\Intermediate\Build\Win64\UnrealEditor\Development\HelloUnral\MyGameInstance.cpp.obj"
-/sourceDependencies D:\JH\unreal_241226\HelloUnral\Intermediate\Build\Win64\UnrealEditor\Development\HelloUnral\MyGameInstance.cpp.dep.json
+/FI"D:\JH\UnrealPortfolio\UnrealBasic\Intermediate\Build\Win64\UnrealEditor\Development\HelloUnral\Definitions.h"
+/Fo"D:\JH\UnrealPortfolio\UnrealBasic\Intermediate\Build\Win64\UnrealEditor\Development\HelloUnral\MyGameInstance.cpp.obj"
+/sourceDependencies D:\JH\UnrealPortfolio\UnrealBasic\Intermediate\Build\Win64\UnrealEditor\Development\HelloUnral\MyGameInstance.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi
