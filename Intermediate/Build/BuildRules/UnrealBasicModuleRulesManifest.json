@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\JH\\UnrealPortfolio\\UnrealBasic\\Source\\HelloUnral\\HelloUnral.Build.cs",
-		"D:\\JH\\UnrealPortfolio\\UnrealBasic\\Source\\HelloUnral.Target.cs",
-		"D:\\JH\\UnrealPortfolio\\UnrealBasic\\Source\\HelloUnralEditor.Target.cs"
-	],
-	"EngineVersion": "5.1.1"
-}
